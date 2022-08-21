@@ -1,0 +1,454 @@
+commit 721063844afffecc80bd3ac6a5ba9d023982e046
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Mon Apr 4 17:15:37 2022 +0100
+
+    edited model ensemble
+
+commit ed753d829ca0e8d9c3037b76d1376814ba00f7c2
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Sun Apr 3 21:17:32 2022 +0100
+
+    fixing model ensemble
+
+commit 0a77b04ebead7913d43cbd022670b91e0e338f5f
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Sun Apr 3 20:48:54 2022 +0100
+
+    fix
+
+commit f647230a57605b4850725b8098fab4c77d8f6e13
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Sun Apr 3 20:48:01 2022 +0100
+
+    fixing knn and model ensemble from problems of standardisation
+
+commit 33333852eacc1aebd9330061399e6db3f764e8e0
+Author: Baoyan Han <ucesbh2@ucl.ac.uk>
+Date:   Sat Apr 2 22:35:49 2022 +0100
+
+    change the hyper parameter and add the standardization to the test set
+
+commit 57581164c9265c1acdae729e3222860d0b239269
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Sat Apr 2 20:46:19 2022 +0100
+
+    fixing my mistake
+
+commit 9b5f4519fb7a235fa2eeb9de6d4c94083462c890
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Sat Apr 2 20:42:51 2022 +0100
+
+    added standardisation to model ensemble
+
+commit 72740bd87ec017708f80f40ea07f0f88ebf04c61
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Sat Apr 2 20:34:45 2022 +0100
+
+    standardised in knn
+
+commit 887095fd61404fa1bdc579f542ec6ff74cc7f505
+Author: ZichunWang98 <92408336+ZichunWang98@users.noreply.github.com>
+Date:   Thu Mar 31 16:52:31 2022 +0100
+
+    Add files via upload
+
+commit 79be160c9f2391ef90301b599fbdf2d1a689d929
+Author: ZichunWang98 <92408336+ZichunWang98@users.noreply.github.com>
+Date:   Thu Mar 31 16:52:10 2022 +0100
+
+    result update
+
+commit a58517d03a2d18011cb5793c7ab2a83e6564fb7d
+Author: ZichunWang98 <92408336+ZichunWang98@users.noreply.github.com>
+Date:   Thu Mar 31 16:51:55 2022 +0100
+
+    result update
+
+commit e38e44c6cb589f339927ded69f2b8048646d58e1
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Thu Mar 31 16:00:25 2022 +0100
+
+    adding more labels
+
+commit ba54b2748c8d8fdc374d5a040cc35254d26c6b36
+Author: pratibha1708 <ucesatb@ucl.ac.uk>
+Date:   Wed Mar 30 23:45:44 2022 +0100
+
+    improved the hyper-parameters
+
+commit 28cf16ee9e6328460024a67fd8e8b4edebecc600
+Author: Baoyan Han <ucesbh2@ucl.ac.uk>
+Date:   Sun Mar 27 23:27:16 2022 +0100
+
+    delete training set report
+
+commit e999c5ac50779849553245479d4159c82a2c36ba
+Author: Baoyan Han <ucesbh2@ucl.ac.uk>
+Date:   Sun Mar 27 23:26:01 2022 +0100
+
+    delete the training set report
+
+commit a3de581acf0a67641b5eccc52a50375850cb9c12
+Author: pratibha1708 <ucesatb@ucl.ac.uk>
+Date:   Sun Mar 27 23:22:56 2022 +0100
+
+    changed parameters and exported file
+
+commit af660d291edf2bd29663d5a2f0fb69218907c503
+Author: ZichunWang98 <92408336+ZichunWang98@users.noreply.github.com>
+Date:   Sun Mar 27 20:59:48 2022 +0100
+
+    change on decision tree part
+
+commit 4787380bb3d6e5cc933d4a4e2330ded8a331a09b
+Author: pratibha1708 <ucesatb@ucl.ac.uk>
+Date:   Sun Mar 27 20:17:43 2022 +0100
+
+    improved the hpyer-parameters
+
+commit 79e7e07e67caa2f8d0702eb203b6c3f2b6512992
+Author: ucescg5 <93675678+ucescg5@users.noreply.github.com>
+Date:   Sun Mar 27 16:28:15 2022 +0100
+
+    Update neuralNetwork.ipynb
+
+commit 9447af76a1f12e6cecf5b95e80e7d12adfb8cd9d
+Author: pratibha1708 <ucesatb@ucl.ac.uk>
+Date:   Sun Mar 27 15:19:49 2022 +0100
+
+    added headings to the graphs in eda
+
+commit a247e51662cb0bc3f4a3f72a4aa59447998b7b8b
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Sun Mar 27 00:37:45 2022 +0000
+
+     adding a graph to bayes
+
+commit acecb2b26495262285989246ee24611b190ed432
+Author: pratibha1708 <ucesatb@ucl.ac.uk>
+Date:   Sat Mar 26 19:32:46 2022 +0000
+
+    Final editing to the notebook
+
+commit 92eae4562ab6ff3e5e1c0922156d2080e42c7173
+Author: pratibha1708 <ucesatb@ucl.ac.uk>
+Date:   Sat Mar 26 19:28:24 2022 +0000
+
+    final editing of the overall notebook
+
+commit 3626da30acb07299fac26b60bcff28a20cff6e53
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Sat Mar 26 16:18:02 2022 +0000
+
+    minor changes
+
+commit bc4c14dee85e93576a6a8cb53dfa8cd1f3b79416
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Sat Mar 26 16:06:42 2022 +0000
+
+    small changes
+
+commit 63c1ab863b1f668a8c86223a2854e7b018f98fca
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Sat Mar 26 15:12:49 2022 +0000
+
+    removing unused imports
+
+commit de154a5fbf05123004b4bfae0521360ed150b2d9
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Sat Mar 26 15:06:29 2022 +0000
+
+    additonal changes
+
+commit 9455772cf15e157a26d4af156cc67a6a31a0dcaf
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Sat Mar 26 15:06:04 2022 +0000
+
+    finalised model ensemble
+
+commit ff3846bf922a1bbe901e2c7225d94d945ebd8ba9
+Author: pratibha1708 <ucesatb@ucl.ac.uk>
+Date:   Sat Mar 26 14:08:08 2022 +0000
+
+     added bivariate analysis for EDA using boxplots
+
+commit 590af6a568b9e8dc774c65340b8e276da02114f7
+Author: ZichunWang98 <92408336+ZichunWang98@users.noreply.github.com>
+Date:   Sat Mar 26 11:22:55 2022 +0000
+
+    modified model ensemble for visualisation
+
+commit a801055439af671b94f418db21aa530f6b57b168
+Author: ZichunWang98 <92408336+ZichunWang98@users.noreply.github.com>
+Date:   Sat Mar 26 03:19:02 2022 +0000
+
+    edited manual hard voting model ensemble
+
+commit 8081949db4c0338d928e863de590a55767ca82b0
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Fri Mar 25 17:40:59 2022 +0000
+
+    exporting models and fixing knn
+
+commit 94f77c0ac38e397696ab067fcac1380fa4936f5c
+Author: pratibha1708 <ucesatb@ucl.ac.uk>
+Date:   Fri Mar 25 17:21:22 2022 +0000
+
+     added code to export file for stacking(model essemble)
+
+commit 0b6dc7093280e3ea648f721b144098de2610d271
+Author: ucescg5 <93675678+ucescg5@users.noreply.github.com>
+Date:   Fri Mar 25 16:54:34 2022 +0000
+
+    Add files via upload
+
+commit 2523bfd3c46d4993835650f56e389f3557ea018e
+Author: Gong Chen <ucescg5@ucl.ac.uk>
+Date:   Fri Mar 25 15:52:56 2022 +0000
+
+    adding export mlp object to file
+
+commit 7a3a933c9bdb531def78dffab935591faa9d77d3
+Author: ucescg5 <93675678+ucescg5@users.noreply.github.com>
+Date:   Fri Mar 25 14:35:54 2022 +0000
+
+    Rename nueral.ipynb to neuralNetwork.ipynb
+
+commit bb0ebae588522f82a34f26822f66fcdd1bad935e
+Author: Gong Chen <ucescg5@ucl.ac.uk>
+Date:   Fri Mar 25 14:34:33 2022 +0000
+
+    expand parameter grid
+
+commit bc337b851c4f42314a034e3802f226ef7b1d60f2
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Thu Mar 24 20:33:24 2022 +0000
+
+    added to ensemble
+
+commit a7a028d3335c4d338660ff391576190e2bb57fd9
+Author: ZichunWang98 <92408336+ZichunWang98@users.noreply.github.com>
+Date:   Thu Mar 24 20:05:30 2022 +0000
+
+    modified model ensemble
+
+commit 86d7151f43ecf849b6e75d6d1601b751bf6343e7
+Author: pratibha1708 <ucesatb@ucl.ac.uk>
+Date:   Thu Mar 24 19:47:58 2022 +0000
+
+    prioritise minor class in gridsearch and used final weights
+
+commit 85b4d33fed29fe701878073b4a87344cf2309eb6
+Author: ucesbh2 <93603102+honboyin@users.noreply.github.com>
+Date:   Thu Mar 24 19:22:17 2022 +0000
+
+    kNN
+
+commit cdc358e35b8242d1db4b9a9d8aa6fb32f7dbdbb0
+Author: Gong Chen <ucescg5@ucl.ac.uk>
+Date:   Thu Mar 24 19:19:26 2022 +0000
+
+    modification on neural network
+
+commit 64fd5e093c3511097c23d78b04f0a2401ca378c1
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Thu Mar 24 19:12:33 2022 +0000
+
+    cleaning mess
+
+commit 69b85fead05d726da27634ea1abd93d1d3789f30
+Author: ucesbh2 <93603102+honboyin@users.noreply.github.com>
+Date:   Thu Mar 24 18:50:31 2022 +0000
+
+    kNN
+
+commit f14f82683fde0c1f3d7da8edf335ed55387f0df3
+Author: ucesbh2 <93603102+honboyin@users.noreply.github.com>
+Date:   Thu Mar 24 18:50:07 2022 +0000
+
+    kNN
+
+commit 5dfd86a97731358fb1a1167e45608641ad83d2dd
+Author: ucesbh2 <93603102+honboyin@users.noreply.github.com>
+Date:   Thu Mar 24 18:47:41 2022 +0000
+
+    kNN
+
+commit 2ecc23671bd4bafaee5389f1f045b5b2717696a1
+Author: ZichunWang98 <92408336+ZichunWang98@users.noreply.github.com>
+Date:   Thu Mar 24 15:43:24 2022 +0000
+
+    updated stacking model
+    
+    comparing stacking with and without MLPClassifier
+
+commit 0cf3b0eaa004ac1f8b0b2d1da77ab498099d9afd
+Author: ZichunWang98 <92408336+ZichunWang98@users.noreply.github.com>
+Date:   Thu Mar 24 15:06:09 2022 +0000
+
+    Add files via upload
+    
+    model ensemble included bayes
+
+commit e574c55298bae0179bd821f1c8d56ce1250668ce
+Merge: 4216d45 42ffa37
+Author: mkiselev2002 <71271836+mkiselev2002@users.noreply.github.com>
+Date:   Mon Mar 21 22:03:30 2022 +0000
+
+    Merge pull request #2 from CEGE0004/miron
+    
+    finished bayes
+
+commit 42ffa377b67288232465342a2977c0962f009588
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Mon Mar 21 21:52:51 2022 +0000
+
+    finished bayes
+
+commit 4216d455e9c8d04969cb3eda7bd3effe1f1213f6
+Author: ZichunWang98 <92408336+ZichunWang98@users.noreply.github.com>
+Date:   Mon Mar 21 21:04:25 2022 +0000
+
+    Add files via upload
+    
+    model ensemble added final weights
+
+commit f5748ee93e482bf2b80924228c52e322b3577579
+Author: ucesbh2 <93603102+honboyin@users.noreply.github.com>
+Date:   Mon Mar 21 21:01:34 2022 +0000
+
+    kNN updated with final weight added
+
+commit 01af6c5460df3d91eed3a6740ccc573791adfdd9
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Mon Mar 21 18:33:10 2022 +0000
+
+    including function to calculate final weight
+
+commit 1a026e72977a9b3d4bc3b4af3e272d8f99f49b73
+Author: ucesbh2 <93603102+honboyin@users.noreply.github.com>
+Date:   Sat Mar 19 16:32:27 2022 +0000
+
+    kNN updated with confusion matrix changed
+
+commit 4416702db1924518b93d90b2d80e7a9e709fd1b3
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Sat Mar 19 16:17:38 2022 +0000
+
+    Edited Confusion Matrix
+
+commit e458aa2930b6be07399c0fda9ebe8c5fb7107164
+Author: ZichunWang98 <92408336+ZichunWang98@users.noreply.github.com>
+Date:   Sat Mar 19 13:07:11 2022 +0000
+
+    Delete model_ensemble1103.ipynb
+
+commit b40594dcc00bd9444d10644d048313448b7f22e8
+Author: ZichunWang98 <92408336+ZichunWang98@users.noreply.github.com>
+Date:   Sat Mar 19 13:06:40 2022 +0000
+
+    model ensemble 0319
+
+commit e10123028ff41077255c7d8151830ccaa7c1553e
+Author: Gong Chen <ucescg5@ucl.ac.uk>
+Date:   Fri Mar 18 18:07:58 2022 +0000
+
+    modify on neural
+
+commit 27d4733436f4687bc812d283dc153a3d449e9a89
+Author: Gong Chen <ucescg5@ucl.ac.uk>
+Date:   Fri Mar 18 17:38:50 2022 +0000
+
+    modify neural
+
+commit 371a5bcfd09708782fb03d8c46f63b22a23d4986
+Author: Gong Chen <ucescg5@ucl.ac.uk>
+Date:   Fri Mar 18 14:50:27 2022 +0000
+
+    updated neual network
+
+commit 99254130fcb3bf7234bb23c1c51d9ec8864d59ee
+Author: ucesbh2 <93603102+honboyin@users.noreply.github.com>
+Date:   Thu Mar 17 09:01:51 2022 +0000
+
+    kNN
+    
+    kNN updated
+
+commit 8fd8c5edb234a295195831ea445bcac415607b90
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Tue Mar 15 22:31:33 2022 +0000
+
+    Added bayes learning
+
+commit 23be14bbb6c9b4713745a7c00cccbc51dd4cc8ab
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Tue Mar 15 18:29:22 2022 +0000
+
+    blueprint for other notebooks in decision tree notebook
+
+commit 171e7dd8a9962b9afb5aa4cdd5c3a284b07d0f52
+Merge: c3fd1ad 4565dab
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Tue Mar 15 16:32:56 2022 +0000
+
+    preprocessing
+
+commit c3fd1ad65370f95f89c5bf274527beae6f2d810f
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Tue Mar 15 16:29:53 2022 +0000
+
+    preprocessing
+
+commit 4565dab45b4ab7e97cdc3de585f4194626777021
+Author: ucesbh2 <93603102+honboyin@users.noreply.github.com>
+Date:   Mon Mar 14 16:32:55 2022 +0000
+
+    instance-based part
+    
+    instance-based part uploaded
+
+commit 1a3ca0d2f96009cc4b64750cc719f4bf5ae93337
+Merge: 9c17228 3139e65
+Author: mkiselev2002 <71271836+mkiselev2002@users.noreply.github.com>
+Date:   Mon Mar 14 16:05:36 2022 +0000
+
+    Merge pull request #1 from CEGE0004/DT
+    
+    Decision Tree Notebook
+
+commit 9c172284ddcff752c08affadea8cb2859aaa452c
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Mon Mar 14 16:00:26 2022 +0000
+
+    neural networks change
+
+commit 58104490d20e35f83984dee81de2242466994193
+Author: Gong Chen <ucescg5@ucl.ac.uk>
+Date:   Mon Mar 14 14:55:07 2022 +0000
+
+    neual netwrok
+
+commit 5315e1abd1d084e7f4f793bc801ce1118c88db71
+Author: ZichunWang98 <92408336+ZichunWang98@users.noreply.github.com>
+Date:   Mon Mar 14 14:41:58 2022 +0000
+
+    Add files via upload
+
+commit 513dbde7fef8c04b4f3e18d60ad0980e86be39fd
+Author: miron2002 <mkiselev2002@icloud.com>
+Date:   Mon Mar 14 14:38:41 2022 +0000
+
+    init
+
+commit 3139e65336246412e5a09a12157ab25ccdc4e9d9
+Author: Pratibha Patel <92760098+pratibha1708@users.noreply.github.com>
+Date:   Fri Mar 11 17:51:02 2022 +0000
+
+    Decision Tree Notebook
+
+commit 07485ba8d913692fb3bcf07f880058ae127a73f1
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Jan 24 14:16:38 2022 +0000
+
+    Initial commit
